@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 .main{
-    background-image: url("sources/images/netflix-background-image.jpg");
+    background-image: url("https://github.com/somyajain-07/Netflix-clone/blob/main/netflix-background-image.jpg?raw=true");
     background-position: center center;
     height:90vh;
     position:relative;
